@@ -1,0 +1,2 @@
+# mess-and-hostel-management-system
+USING FOR FRONTED  HTML CSS JAVASCRIPT AND THIS PROJECT IS HELPFUU
